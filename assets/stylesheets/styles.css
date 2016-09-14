@@ -1,0 +1,36 @@
+h1 { 
+		font-size: 60px;
+		text-align: center;
+		color: green;
+		background-color: black;
+
+	}
+	h2 {
+		font-size: 35px;
+		text-align: left;
+		color: black;
+		background-color: crimson;
+	}
+
+.blue-text {
+	color:blue;
+	font-size: 25;
+}
+.pink-text {
+color:pink;
+font-size: 25;
+}
+
+
+p{
+color: purple; 
+text-align: left;
+
+}
+
+#top {
+background: lime;
+text-align: center;
+font-size: 12px;
+
+}
